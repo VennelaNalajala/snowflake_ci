@@ -1,3 +1,4 @@
+-- testing CI
 SELECT 
   c.CUSTOMER_ID,
   c.CUSTOMER_NAME,
